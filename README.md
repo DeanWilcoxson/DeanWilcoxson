@@ -1,5 +1,5 @@
 # Hello! 👋 I'm Dean Wilcoxson!!
-🔭 I’m currently working on [Client Projects]([https://github.com/DeanWilcoxson/Portfolio-Projects/tree/main/portfolio_page](https://github.com/DeanWilcoxson/client-projects)
+🔭 I’m currently working on [Client Projects]([https://github.com/DeanWilcoxson/Portfolio-Projects/tree/main/portfolio_page](https://github.com/DeanWilcoxson/client-projects])
 
 🌱 I’m currently learning [Styled Components](https://styled-components.com/)
 
